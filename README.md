@@ -6,6 +6,6 @@ The Game Rules:-
 3-You have to enter 4 digits every try
 4-if you have a correct digit but in wrong place you will get "-"
 5-if you have a correct digit in its correct place you will get "="
-6-if you have a wrong digit you will get "X"
+6-if there are no correct digit you get nothing
 7-Find the code to win
 
