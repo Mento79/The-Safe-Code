@@ -13,7 +13,7 @@ int main()
     cout << "3-You have to enter 4 digits every try \n";
     cout << "4-if you have a correct digit but in wrong place you will get - \n";
     cout << "5-if you have a correct digit in its correct place you will get = \n";
-    cout << "6-if you have a wrong digit you will get X \n";
+    cout << "6-if there are no correct digit you get nothing \n";
     cout << "7-Find the code to win \n";
     cout << "Have Fun ;)\n";
 
@@ -91,11 +91,6 @@ int main()
             while (c2--){
                 cout<<"-";
                 no++;
-            }
-            while (no<4){
-                cout<<"X";
-                no++;
-
             }
             cout << "\n";
         }
